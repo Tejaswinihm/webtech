@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style> 
+    p{ 
+        color: rgb(65, 77, 87);
+
+    }
+
+    </style>
+    <link rel="stylesheet" href="22.css">
+
+<h style="font-family: fantasy;">VCET MCA DEPT</h>
+<table border="1">
+    <tr>
+        <td>one</td>
+        <td>two</td>
+        <td>three</td>
+    </tr>
+    <tr>
+        <td>five</td>
+        <td>six</td>
+        <td>seven</td>
+    </tr>
+</table>
+<ol>
+<li> MCA </li>
+    <li> MBA</li>
+    <li> BE</li>
+</ol>
+<ul>
+    <li>
+        mech
+    </li>
+<li> CSE</li>
+<li> APTC</li>
+</ul>
+<div class="center">
+<h1> story </h1>
+<p> Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat ipsum eum porro, inventore reiciendis laborum, aperiam aliquam vel odio officia eligendi nobis vero? Maxime quibusdam a corporis dolores dolor facere?</p>
+<p style="color: aquamarine;"></p>
+
+</div>
+</body>
+</html>
+
+
+main.css
+
+p{
+    background-color: aliceblue;
+    border-top: aqua;
+    border-bottom: bisque;
+    border-radius: 20px;
+}
+h1{
+    background-color: rgb(40, 126, 201);
+    border-top: rgb(25, 0, 255);
+    border-bottom: rgb(124, 90, 49);
+    border-radius: 20px;
+}
+td{
+    background-color: aliceblue;
+    border-radius: 20px;
+}
+
+
+    .center{
+              padding: 15px;
+              outline: auto;
+              margin: 10px;
+              background-color: aliceblue;
+    border-top: aqua;
+    border-bottom: bisque;
+    border-radius: 20px;
+    }
